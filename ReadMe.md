@@ -2,6 +2,8 @@
 
 # Hi, I\`am `0xHorror-Dev` I\`m Software Engineer
 
+![Info](https://github-readme-stats.vercel.app/api?username=0xHorror-Dev&show_icons=true&theme=onedark)
+
 ### What am I currently working:
     - Cross-platform graphics engine (XPlatform)
 
