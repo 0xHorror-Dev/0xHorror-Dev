@@ -3,12 +3,6 @@
 # Hi, I\`am `0xHorror-Dev` I\`m Software Engineer
 
 ![Info](https://github-readme-stats.vercel.app/api?username=0xHorror-Dev&show_icons=true&theme=onedark)
-
-## What am I currently working:
-
-- ### Cross-platform engine [XPlatform](https://github.com/XPlatformProject)
-- ### Cross-platform chat web server [XWC]()
-- ### C++ string fromating library [XFmt]()
 ---
 
 ## What I`am use:
