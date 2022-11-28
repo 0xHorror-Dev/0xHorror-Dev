@@ -3,6 +3,9 @@
 # Hi, I\`am `0xHorror-Dev` I\`m Software Engineer
 
 ![Info](https://github-readme-stats.vercel.app/api?username=0xHorror-Dev&show_icons=true&theme=onedark)
+
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
 ---
 
 ## What I`am use:
