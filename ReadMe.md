@@ -5,7 +5,7 @@
 ![Info](https://github-readme-stats.vercel.app/api?username=0xHorror-Dev&show_icons=true&theme=onedark)
 
  Visitor count<br>
- <img src="https://profile-counter.glitch.me/Abb1x/count.svg" />
+ <img src="https://profile-counter.glitch.me/0xHorror-Dev/count.svg" />
 ---
 
 ## What I`am use:
