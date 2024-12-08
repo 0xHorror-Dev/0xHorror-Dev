@@ -5,11 +5,7 @@
 * C++
 * C
 * ASM
- 
-## Learning:
-
-* UEFI (`gnu efi`)
-
+* 
 <!-- ## Applications:
 
 * [Num-C](https://github.com/0xHorror-Dev/Num-C) (simple translator of numbers from one system to another)
