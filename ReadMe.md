@@ -1,10 +1,16 @@
 ![Header](assets/Header.png)
 
-## Progamming languages:
+## Most used progamming languages:
 
 * C++
 * C
 * ASM
+* Rust
+
+
+## Currently learning 
+
+[![cryptography](https://img.shields.io/badge/cryptography-black?style=for-the-badge&logo=xrp&logoColor=white)](https://github.com/0xHorror-Dev/cryptography)
 
 
 <!-- ## Applications:
